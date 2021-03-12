@@ -22,8 +22,8 @@ const GlobalStyle = createGlobalStyle`
 const Container = styled.div`
   display: flex;
   justify-content: center;
-  align-items: flex-end;
-  height: 75vh;
+  align-items: center;
+  height: 90vh;
 `
 
 const Wrapper = styled.div`
