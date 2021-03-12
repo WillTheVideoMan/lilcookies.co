@@ -6,13 +6,13 @@ import Seo from "../components/seo"
 
 const Title = styled.h1`
   padding: 0 1rem;
-  color: #7d7d7d;
+  color: white;
   text-align: center;
-  font-family: "Copse", serif;
+  font-family: "Abril Fatface", cursive;
 `
 
 const Accent = styled.strong`
-  color: #c50aeb;
+  color: #76544b;
 `
 
 const IndexPage = () => (

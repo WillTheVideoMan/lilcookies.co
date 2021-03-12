@@ -4,9 +4,9 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Trail Making Test`,
-    description: `Open, Accessible TMT Testing.`,
-    author: `@willthevideoman`,
+    title: `Lil Cookies`,
+    description: `Fresh, Vegan, Sustainable.`,
+    author: `@lilcookies`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
