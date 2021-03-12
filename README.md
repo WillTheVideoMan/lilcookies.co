@@ -1,3 +1,5 @@
-# Trail Making Test
+# Lil Cookies
 
-An open and progressive implementation of the Trail Making Test.
+Fresh, Vegan, Sustainable.
+
+_(Project repository for a friend's brand-new bakery)_
